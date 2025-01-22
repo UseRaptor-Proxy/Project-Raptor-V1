@@ -13,7 +13,7 @@
   "author": "Project-Raptor",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@fastify/http-proxy": "^9.5.0",
+    "@fastify/http-proxy": "^11.0.1",
     "@titaniumnetwork-dev/ultraviolet": "^3.1.2",
     "@tomphttp/bare-server-node": "^2.0.3",
     "cookie-parser": "^1.4.6",
