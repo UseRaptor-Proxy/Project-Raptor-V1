@@ -14,7 +14,7 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@fastify/http-proxy": "^9.5.0",
-    "@titaniumnetwork-dev/ultraviolet": "^3.1.2",
+    "@titaniumnetwork-dev/ultraviolet": "^3.2.10",
     "@tomphttp/bare-server-node": "^2.0.3",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
